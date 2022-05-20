@@ -6,7 +6,7 @@ Install :
 pip3 install -r requirements.txt
 
 comand :
-python3 Checker.py
+python3 chk.py
 
 
 input chk.txt 
