@@ -96,7 +96,7 @@ def funct(cc,mm,yy,cvv):
  else:
   print('[+] '+str(cc)+' Valid')
   open('Valid.txt','a+').write(str(cc)+'|'+mm+'|'+yy+'|'+cvv+'\n')
-print('New CC Checker Tool Coded By Dejavu66')
+print('Chkmass Coded By Dejavu66')
 print('Format : CC|mm|yy|cvv exmp : 346596528271562|09|2025|4233')
 CCList=open(input('CCs List : '),'r').read().splitlines()
 for i in CCList:
